@@ -2,4 +2,5 @@
 
 Hago cambios desde la nube
 
-Hola me llamo fran 
+Hola me llamo fran
+y tambien desde mi ordenador.
